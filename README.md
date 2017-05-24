@@ -7,6 +7,6 @@ However, during the running process, you may meet many questions of installing n
 
 If you are wandering how to get the trusted source, let’s refer to <a href="https://ndnapps.com/blog/">our Shopify blog</a>. In our blog, there are many of posts about Shopify tutorial which help you much in manage, design, and develop your Shopify store efficiently.
 
-Read Shopify Tutorial at: https://ndnapps.com/shopify-tutorial/
+Read Shopify Tutorial at: <a href="https://ndnapps.com/shopify-tutorial/">Shopify Tutorial from NDNAPPS</a> 
 
 Read more: https://ndnapps.com/shopify-tips-tricks/ / https://ndnapps.com/services/
